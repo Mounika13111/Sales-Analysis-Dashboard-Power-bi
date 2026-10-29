@@ -43,7 +43,7 @@ This project uses Microsoft Power BI to analyze sales performance, profitability
 - Data Visualization
 
 ## Preview Dashboard
-  Sales%20Analysis%20Power%20bi.png
+  Sales%20 Analysis%20 Power%20 bi.png
 
 ## Project Files
    https://drive.google.com/file/d/1GoswVj5TwabN4lVIn-2N-bueXxouUmGj/view?usp=sharing
